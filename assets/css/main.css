@@ -197,10 +197,12 @@ ul li, ol li {
   font-weight: 400;
   color: #fff;
   text-transform: uppercase;
+  /*
   -webkit-transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
+  */
   display: inline-block;
 }
 
