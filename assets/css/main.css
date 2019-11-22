@@ -214,7 +214,7 @@ ul li, ol li {
 .btn:active {
   box-shadow: none;
   outline: none;
-  color: #800000;
+  color: #fff;
 }
 
 .btn-common {
