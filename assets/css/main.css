@@ -214,7 +214,7 @@ ul li, ol li {
 .btn:active {
   box-shadow: none;
   outline: none;
-  color: #fff;
+  color: #800000;
 }
 
 .btn-common {
@@ -1002,7 +1002,8 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .schedule .schedule-tab-title .nav-tabs {
-  background: #ffffff;
+  background-image: url("../img/bkgd/seawolfStrip.PNG");
+  background-size: 900px;
 }
 
 .schedule .schedule-tab-title .nav-tabs .nav-link {
