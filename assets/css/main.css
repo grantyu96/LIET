@@ -2154,7 +2154,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   letter-spacing: 0.1rem;
   margin-top: 30px;
   position: relative;
-  top: -180px
+  top: -140px
 }
 
 #main-slide .carousel-item .carousel-caption .preheading {
@@ -2165,12 +2165,12 @@ a.back-to-top:hover, a.back-to-top:focus {
   letter-spacing: 0.1rem;
   margin-top: 30px;
   position: relative;
-  top: -180px
+  top: -140px
 }
 
 #main-slide .carousel-item .carousel-caption .btn{
    position: relative;
-   top: -180px
+   top: -100px
 }
 
 #main-slide .carousel-item .carousel-caption p {
