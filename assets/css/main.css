@@ -2147,12 +2147,30 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 #main-slide .carousel-item .carousel-caption .heading {
-  font-size: 48px;
+  font-size: 68px;
   font-weight: 700;
   color: #fff;
   text-transform: uppercase;
   letter-spacing: 0.1rem;
   margin-top: 30px;
+  position: relative;
+  top: -180px
+}
+
+#main-slide .carousel-item .carousel-caption .preheading {
+  font-size: 56px;
+  font-weight: 700;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+  margin-top: 30px;
+  position: relative;
+  top: -180px
+}
+
+#main-slide .carousel-item .carousel-caption .btn{
+   position: relative;
+   top: -180px
 }
 
 #main-slide .carousel-item .carousel-caption p {
