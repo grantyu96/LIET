@@ -10,6 +10,10 @@
     font-size: 36px;
     margin-top: 5px;
   }
+  #main-slide .carousel-item .carousel-caption .preheading {
+    font-size: 18px;
+    margin-top: 5px;
+  }
   #main-slide .carousel-item .carousel-caption p {
     font-size: 13px;
   }
@@ -40,6 +44,9 @@
   }
   #main-slide .carousel-item .carousel-caption .heading {
     font-size: 24px;
+  }
+  #main-slide .carousel-item .carousel-caption .preheading {
+    font-size: 18px;
   }
   #main-slide .carousel-item .carousel-caption p {
     font-size: 13px;
@@ -102,6 +109,9 @@
   }
   #main-slide .carousel-item .carousel-caption .heading {
     font-size: 24px;
+  }
+  #main-slide .carousel-item .carousel-caption .preheading {
+    font-size: 18px;
   }
   #main-slide .carousel-item .carousel-caption p {
     font-size: 13px;
@@ -166,6 +176,10 @@
   }
   #main-slide .carousel-item .carousel-caption .heading {
     font-size: 16px;
+    margin-top: 5px;
+  }
+  #main-slide .carousel-item .carousel-caption .preheading {
+    font-size: 12px;
     margin-top: 5px;
   }
   #main-slide .carousel-item .carousel-caption p {
@@ -255,6 +269,9 @@
 
 @media (min-width: 320px) and (max-width: 480px) {
   #main-slide .carousel-item .carousel-caption .heading {
+    letter-spacing: 0;
+  }
+  #main-slide .carousel-item .carousel-caption .preheading {
     letter-spacing: 0;
   }
   #main-slide .carousel-item .carousel-caption p {
