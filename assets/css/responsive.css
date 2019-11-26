@@ -307,6 +307,9 @@
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
+  #main-slide .navbar-header h5 {
+    font-size: 16px;
+  }
   #main-slide .carousel-item .carousel-caption .heading {
     font-size: 22px;
     letter-spacing: 0;
